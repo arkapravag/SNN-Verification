@@ -12,4 +12,4 @@
 - Single Pendulum
 - Double Pendulum
 
-The *Range Verification* folder has the code for runninning the range verification and tightening queries on each of these benchmarks
+The *Range Verification* folder has the code for runnining the range verification and tightening queries on each of these benchmarks (labelled with their respective names. The files labelled \<Controller Name\> - Random Simulations have the code for generating random simulations using the neural networks
