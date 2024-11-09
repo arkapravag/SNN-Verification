@@ -6,7 +6,7 @@
 - onnx-tf                   1.10.0
 - onnxruntime               1.16.3
 
-### The benchnark folder contains 4 NN controller benchmarks
+### The *benchmark* folder contains 4 NN controller benchmarks
 - Adaptive Cruise Controller (with 3 and 5 hidden layers)
 - Linear Inverted Pendulum
 - Single Pendulum
