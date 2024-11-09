@@ -1,5 +1,5 @@
 # SNN-Verification
-## Requirements:
+## Requirements
 - numpy                     1.23.5
 - nengo                     3.2.0
 - onnx                      1.13.1
